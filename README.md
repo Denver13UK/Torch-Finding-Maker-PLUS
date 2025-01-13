@@ -1,2 +1,5 @@
 # Torch-Finding-Maker-PLUS
-TFAMP
+
+This is a more advanced turbowarp coding.
+
+// *Make your own TORCH FINDING ADVENTURE!*
